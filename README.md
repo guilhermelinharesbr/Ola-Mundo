@@ -18,3 +18,5 @@ Esta linha é comum
 ~~Esta é riscada~~
 
 ~~Esta linha está riscada 2~~
+
+**negrito**
