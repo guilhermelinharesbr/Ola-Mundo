@@ -20,6 +20,7 @@ Esta linha é comum
 ~~Esta linha está riscada 2~~
 
 **negrito**
+__negrito__
 *itálico*
 ~~riscada~~
 
