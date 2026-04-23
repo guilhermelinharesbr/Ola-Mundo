@@ -12,9 +12,6 @@ __Esta linha também está em negrito__
 *Esta linha está em itálico*
 
 ~~Esta linha está riscada~~
-
-Esta linha é comum
-
 ~~Esta é riscada~~
 
 ~~Esta linha está riscada 2~~
