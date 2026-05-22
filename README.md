@@ -16,12 +16,10 @@ __Esta linha também está em negrito__
 **negrito**
 __negrito__
 **negroto**
-**negrito**
 *itálico*
 _itálico_
-_itálico_
 ~~riscada~~
-~~riscada~~
+
 
 # Header level 1
 ### Cabeçalho nível 3
