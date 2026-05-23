@@ -1,5 +1,5 @@
 # Olá, Mundo!
-Meu primeiro repositório
+Meu primeiro repositório.
 
 Esta linda eu alterei diretamente no site do GitHub
 
