@@ -13,7 +13,6 @@ __Esta linha também está em negrito__
 ~~Esta linha está riscada 2~~
 
 **negrito**
-**negrito**
 __negrito__
 **negroto**
 *itálico*
