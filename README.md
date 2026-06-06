@@ -17,7 +17,6 @@ __negrito__
 **negroto**
 **negroto**
 *itálico*
-*itálico*
 _itálico_
 ~~riscada~~
 
