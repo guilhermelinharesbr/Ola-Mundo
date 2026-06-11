@@ -14,7 +14,7 @@ __Esta linha também está em negrito__
 
 **negrito**
 __negrito__
-**negroto**
+**negrito**
 *itálico*
 _itálico_
 ~~riscada~~
