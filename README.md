@@ -16,6 +16,7 @@ __Esta linha também está em negrito__
 __negrito__
 **negrito**
 *itálico*
+_em italico_
 _itálico_
 ~~riscada~~
 
