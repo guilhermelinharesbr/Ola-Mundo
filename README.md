@@ -19,7 +19,7 @@ __negrito__
 _em italico_
 _itálico_
 ~~riscada~~
-
+_italico_
 
 # Header level 1
 ### Cabeçalho nível 3
