@@ -10,11 +10,8 @@ __Esta linha também está em negrito__
 *Esta linha está em itálico*
 
 ~~Esta linha está riscada~~
-~~Esta linha está riscada 2~~
-
 **negrito**
 __negrito__
-**negrito**
 *itálico*
 _em italico_
 _itálico_
