@@ -16,6 +16,7 @@ __negrito__
 _em italico_
 _itálico_
 ~~riscada~~
+~~riscada~~
 _italico_
 
 # Header level 1
