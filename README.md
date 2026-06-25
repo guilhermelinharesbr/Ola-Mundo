@@ -9,8 +9,6 @@ __Esta linha também está em negrito__
 
 ~~Esta linha está riscada~~
 **negrito**
-**negrito**
-**negrito**
 __negrito__
 *itálico*
 _em italico_
