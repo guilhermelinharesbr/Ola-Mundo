@@ -13,6 +13,10 @@ __negrito__
 *itálico*
 _em italico_
 _itálico_
+_itálico_
+_itálico_
+_itálico_
+_itálico_
 ~~riscada~~
 _italico_
 
