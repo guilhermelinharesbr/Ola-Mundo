@@ -22,7 +22,6 @@ _italico_
 ## Cabeçalho level 2
 ## Cabeçalho level 2
 ## Cabeçalho level 2
-## Cabeçalho level 2
 
 
 
