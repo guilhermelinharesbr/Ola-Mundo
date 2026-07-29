@@ -21,7 +21,6 @@ _italico_
 ### Cabeçalho nível 3
 ## Cabeçalho level 2
 ## Cabeçalho level 2
-## Cabeçalho level 2
 
 
 
