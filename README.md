@@ -15,7 +15,6 @@ __negrito__
 _em italico_
 _em italico_
 _em italico_
-_em italico_
 _itálico_
 ~~riscada~~
 _italico_
